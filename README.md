@@ -23,3 +23,4 @@ This project focuses on identifying the key drivers behind employee turnover (at
 © 2026 Ioannis Frangistas. **All Rights Reserved.**
 Unauthorized copying, modification, or distribution of this project's code and analysis is strictly prohibited.
 Dataset is under open license - no rights are claimed for the data.
+Dataset: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
